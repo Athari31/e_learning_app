@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "797344413256",
+    "project_id": "elarning-c6ad0",
+    "storage_bucket": "elarning-c6ad0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:797344413256:android:bfd7c06ba8fb07d98c0a7d",
+        "android_client_info": {
+          "package_name": "com.example.e_learning_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUQCBVGSIo34IazjdcsMuvEYJkxu52NL8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
